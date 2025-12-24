@@ -1,0 +1,2 @@
+# Ignore unencrypted local files (only encrypted versions should be tracked)
+assets/
